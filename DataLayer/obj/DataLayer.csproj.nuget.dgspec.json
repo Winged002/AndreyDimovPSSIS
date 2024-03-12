@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/StudentInformationSystem/DataLayer/DataLayer.csproj": {}
+    "C:\\Users\\User\\Documents\\StudentInformationSystem\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/StudentInformationSystem/DataLayer/DataLayer.csproj": {
+    "C:\\Users\\User\\Documents\\StudentInformationSystem\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/StudentInformationSystem/DataLayer/DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\StudentInformationSystem\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "/Users/user/Documents/StudentInformationSystem/DataLayer/DataLayer.csproj",
-        "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/StudentInformationSystem/DataLayer/obj/",
+        "projectPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj": {
-                "projectPath": "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj"
+              "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj"
               }
             }
           }
@@ -36,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,26 +80,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj": {
+    "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj",
         "projectName": "Welcome",
-        "projectPath": "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj",
-        "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/StudentInformationSystem/Welcome/obj/",
+        "projectPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -105,11 +114,22 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -126,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

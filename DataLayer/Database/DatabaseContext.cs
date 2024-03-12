@@ -39,8 +39,8 @@ namespace DataLayer.Database
             var studentUser = new DatabaseUser()
             {
                 Id = 2,
-                Names = "Anisiya Kovachka",
-                Password = "kovachka155",
+                Names = "Andrej Dimov",
+                Password = "andrej123",
                 Role = UserRolesEnum.STUDENT,
                 Expires = DateTime.Now.AddYears(10)
             };

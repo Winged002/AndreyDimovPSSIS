@@ -37,8 +37,8 @@ namespace WelcomeExtended
                 //view.displayerror();
 
                 UserData userData = new UserData();
-                LoginLogger logger = new LoginLogger("D:/C:/Users/Admin/Desktop/StudentInformationSystem/WelcomeExtended/Loggers/LoginLogger.txt");
-                ErrorLogger errorLogger = new ErrorLogger("D:/C:/Users/Admin/Desktop/StudentInformationSystem/WelcomeExtended/Loggers/ErrorLogger.txt");
+                LoginLogger logger = new LoginLogger("C:\\Users\\User\\Documents\\StudentInformationSystem\\WelcomeExtended\\Loggers\\LoginLogger.txt");
+                ErrorLogger errorLogger = new ErrorLogger("C:\\Users\\User\\Documents\\StudentInformationSystem\\WelcomeExtended\\Loggers\\ErrorLogger.txt");
 
                 User studentUser = new User()
                 {

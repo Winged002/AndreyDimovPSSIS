@@ -1,86 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/StudentInformationSystem/WelcomeExtended/WelcomeExtended.csproj": {}
+    "C:\\Users\\User\\Documents\\StudentInformationSystem\\WelcomeExtended\\WelcomeExtended.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj": {
+    "C:\\Users\\User\\Documents\\StudentInformationSystem\\WelcomeExtended\\WelcomeExtended.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj",
-        "projectName": "Welcome",
-        "projectPath": "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj",
-        "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/StudentInformationSystem/Welcome/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/user/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/user/Documents/StudentInformationSystem/WelcomeExtended/WelcomeExtended.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/user/Documents/StudentInformationSystem/WelcomeExtended/WelcomeExtended.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\StudentInformationSystem\\WelcomeExtended\\WelcomeExtended.csproj",
         "projectName": "WelcomeExtended",
-        "projectPath": "/Users/user/Documents/StudentInformationSystem/WelcomeExtended/WelcomeExtended.csproj",
-        "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/",
+        "projectPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\WelcomeExtended\\WelcomeExtended.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\WelcomeExtended\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj": {
-                "projectPath": "/Users/user/Documents/StudentInformationSystem/Welcome/Welcome.csproj"
+              "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj"
               }
             }
           }
@@ -89,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -120,7 +74,73 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj",
+        "projectName": "Welcome",
+        "projectPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\Welcome.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\StudentInformationSystem\\Welcome\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

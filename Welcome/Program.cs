@@ -16,7 +16,7 @@ namespace Welcome
         static void Main(string[] args)
         {
             User user1;
-            user1 = new User("Anisiya Kovachka", "kovachka155", UserRolesEnum.STUDENT,/* "akovachka@tu-sofia.bg", "123221010",*/ 1);
+            user1 = new User("Andrej Dimov", "password155%", UserRolesEnum.STUDENT,/* "123221001",*/ 1);
 
             UserViewModel userViewModel;
             userViewModel = new UserViewModel(user1);
