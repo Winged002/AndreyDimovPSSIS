@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqcEBs2v+isHS/j/foQeTjIAV8tDzOd4iTlAdKOHgp8OYnUli/MtPmZxtxVlUUv62SHzuwqfN72ce0Nd0EYNnA==",
+  "success": false,
+  "projectFilePath": "/Users/user/Documents/StudentInformationSystem/DataLayer/DataLayer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    }
+  ]
+}

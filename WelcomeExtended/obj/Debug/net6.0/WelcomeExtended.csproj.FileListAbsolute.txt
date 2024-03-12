@@ -1,0 +1,54 @@
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.csproj.AssemblyReference.cache
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.AssemblyInfoInputs.cache
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.AssemblyInfo.cs
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.csproj.CoreCompileInputs.cache
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.deps.json
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.runtimeconfig.json
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.exe
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.exe
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.deps.json
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.runtimeconfig.json
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.pdb
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.pdb
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.csproj.CopyComplete
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/refint/WelcomeExtended.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.pdb
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.genruntimeconfig.cache
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/ref/WelcomeExtended.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.deps.json
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.runtimeconfig.json
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.deps.json
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.runtimeconfig.json
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/WelcomeExtended.pdb
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/bin/Debug/net6.0/Welcome.pdb
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.csproj.AssemblyReference.cache
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.AssemblyInfoInputs.cache
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.AssemblyInfo.cs
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.csproj.CoreCompileInputs.cache
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.csproj.CopyComplete
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/refint/WelcomeExtended.dll
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.pdb
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/WelcomeExtended.genruntimeconfig.cache
+/Users/user/Documents/StudentInformationSystem/WelcomeExtended/obj/Debug/net6.0/ref/WelcomeExtended.dll

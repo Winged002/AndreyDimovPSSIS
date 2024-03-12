@@ -1,0 +1,89 @@
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.exe
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.deps.json
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.runtimeconfig.json
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.pdb
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.AssemblyReference.cache
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfoInputs.cache
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfo.cs
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.CoreCompileInputs.cache
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/refint/Welcome.dll
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.pdb
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.genruntimeconfig.cache
+D:/TU-SOFIA/3 KURS/6 SEMESTAR/PS/StudentInformationSystem/Welcome/obj/Debug/net6.0/ref/Welcome.dll
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.exe
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.deps.json
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.runtimeconfig.json
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.dll
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.pdb
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.AssemblyReference.cache
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfoInputs.cache
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfo.cs
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.dll
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/refint/Welcome.dll
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.pdb
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.genruntimeconfig.cache
+C:/Users/Admin/Downloads/StudentInformationSystem/StudentInformationSystem/Welcome/obj/Debug/net6.0/ref/Welcome.dll
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.exe
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.deps.json
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.runtimeconfig.json
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.dll
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.pdb
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.AssemblyReference.cache
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfo.cs
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.dll
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/refint/Welcome.dll
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.pdb
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.genruntimeconfig.cache
+C:/Users/Admin/Desktop/StudentInformationSystem/Welcome/obj/Debug/net6.0/ref/Welcome.dll
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.exe
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.deps.json
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.runtimeconfig.json
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.dll
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.pdb
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.AssemblyReference.cache
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfo.cs
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.dll
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/refint/Welcome.dll
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.pdb
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.genruntimeconfig.cache
+C:/Users/Admin/Desktop/ivce pivce/StudentInformationSystem/Welcome/obj/Debug/net6.0/ref/Welcome.dll
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.exe
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.deps.json
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.runtimeconfig.json
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.dll
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.pdb
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfo.cs
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.dll
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/refint/Welcome.dll
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.pdb
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.genruntimeconfig.cache
+C:/Users/Admin/Desktop/fkst/VI семестар/ПС/StudentInformationSystem/Welcome/obj/Debug/net6.0/ref/Welcome.dll
+/Users/user/Documents/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome
+/Users/user/Documents/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.deps.json
+/Users/user/Documents/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.runtimeconfig.json
+/Users/user/Documents/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.dll
+/Users/user/Documents/StudentInformationSystem/Welcome/bin/Debug/net6.0/Welcome.pdb
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.AssemblyReference.cache
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfoInputs.cache
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.AssemblyInfo.cs
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.csproj.CoreCompileInputs.cache
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.dll
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/refint/Welcome.dll
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.pdb
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/Welcome.genruntimeconfig.cache
+/Users/user/Documents/StudentInformationSystem/Welcome/obj/Debug/net6.0/ref/Welcome.dll
